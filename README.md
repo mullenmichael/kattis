@@ -1,7 +1,9 @@
 # Kattis Solutions
 
 UKIEPC 2016:
-	* A Taxing Problem
+
+* A Taxing Problem
 
 NWERC 2016:
-	* Free Weights
+
+* Free Weights
