@@ -6,4 +6,6 @@ UKIEPC 2016:
 
 NWERC 2016:
 
+* Careful Ascent
 * Free Weights
+* Hamiltonian Hypercube 
