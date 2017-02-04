@@ -1,5 +1,5 @@
 #
-# a-taxing-problem-solved.py
+# a-taxing-problem.py
 # UKIEPC 2016
 # Michael Mullen
 #
